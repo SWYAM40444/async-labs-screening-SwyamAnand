@@ -10,9 +10,9 @@ A cohesive set of five premium marketing visuals for a smart 7.5-inch always-on 
 
 ## How to view / use it
 
-1. Browse the `screenshots/` folder for the five final visuals (01–05).
-2. Read `work/exports/captions-and-art-direction.md` for the intent behind each image and the overall system.
-3. Product reference photos used for accuracy are in `work/assets/`.
+1. Browse the repositry for five final visuals 01.png to 05.png (i apologise for not being as per structured guidelines due to some reasons).
+2. Read captions-and-art-direction.md for the intent behind each image and the overall system.
+3. Product reference photos used for accuracy are there referred to as "product_ref1.png and similarly 2".
 
 ## Links
 
